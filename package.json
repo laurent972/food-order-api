@@ -1,0 +1,23 @@
+{
+  "name": "json-server-api-food-order",
+  "version": "1.0.0",
+  "description": "Fake Api Rest Food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurent972/food-order-api.git"
+  },
+  "author": "Laurent972",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurent972/food-order-api/issues"
+  },
+  "homepage": "https://github.com/laurent972/food-order-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
