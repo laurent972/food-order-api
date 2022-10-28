@@ -6,7 +6,8 @@
          "info": "pates à la carbonara, parmesan, peccorino romano, guanciale",
          "price": "12",
          "img":"https://images.unsplash.com/photo-1588013273468-315fd88ea34c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
-         "categorie": [1]
+         "categorie": [1],
+         "reference":"ref02"
       },
       {
          "id": 2,
@@ -14,7 +15,8 @@
          "info": "pates à l'amatriciana, peccorino romano, guanciale, sauce tomate",
          "price": "12",
          "img":"https://www.abeautifulplate.com/wp-content/uploads/2022/03/pasta-amatriciana-1-500x500.jpg",
-         "categorie": [1]
+         "categorie": [1],
+         "reference":"ref02"
       },
       {
          "id": 3,
@@ -22,7 +24,8 @@
          "info": "penne à l'arrabiata, parmesan, sauce tomate, piment",
          "price": "12",
          "img":"https://www.regal.fr/sites/art-de-vivre/files/Import/R84-penne-all-arrabbiata_ss.jpg",
-         "categorie": [1]
+         "categorie": [1],
+         "reference":"ref02"
       },
       {
          "id": 4,
@@ -30,7 +33,8 @@
          "info": "haricots blanc, saucisses, canard",
          "price": "13",
          "img":"https://www.papillesetpupilles.fr/wp-content/uploads/2013/11/Cassoulet-de-PIerre-Perret.jpg",
-         "categorie": [1]
+         "categorie": [1],
+         "reference":"ref02"
       },
       {
          "id": 5,
@@ -38,7 +42,8 @@
          "info": "poulet, poivrons, piment doux, riz",
          "price": "15",
          "img":"https://assets.afcdn.com/recipe/20161116/7224_w1000h1500c1cx1972cy3850cxb3840cyb5760.webp",
-         "categorie": [1]
+         "categorie": [1],
+         "reference":"ref02"
       },
       {
          "id": 6,
@@ -46,7 +51,8 @@
          "info": "poisson, favouilles marseillaise, rassecasse volante, légumes",
          "price": "45",
          "img":"https://res.cloudinary.com/serdy-m-dia-inc/image/upload/f_auto/fl_lossy/q_auto:eco/x_0,y_200,w_3840,h_2160,c_crop/w_1200,h_630,c_fill/v1655476916/foodlavie/prod/recettes/bouillabaisse-1-b94028e9",
-         "categorie": [1]
+         "categorie": [1],
+         "reference":"ref02"
       },
       {
          "id": 7,
@@ -54,7 +60,8 @@
          "info": "vodka, martini, glace pilée, aagitée, non secoué",
          "price": "13",
          "img":"https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/cocktail-vodka-martini-2806640/50536866-1-fre-FR/Cocktail-vodka-Martini.jpg",
-         "categorie": [2]
+         "categorie": [2],
+         "reference":"ref02"
       },
       {
          "id": 8,
@@ -62,7 +69,8 @@
          "info": "bourbon, sucre, menthe, glace",
          "price": "15",
          "img":"https://honestlyyum.com/wp-content/uploads/2015/04/mint.julep_.recipe.1.1.jpg",
-         "categorie": [2]
+         "categorie": [2],
+         "reference":"ref02"
       },
       {
          "id": 9,
@@ -70,7 +78,8 @@
          "info": "jus d'orange",
          "price": "6",
          "img":"https://i.notretemps.com/1800x0/smart/2020/09/29/banc-test-les-jus-dorange-bio.jpeg",
-         "categorie": [2]
+         "categorie": [2],
+         "reference":"ref02"
       },
       {
          "id": 10,
@@ -78,7 +87,8 @@
          "info": "mozzarella, salame forto, nduja",
          "price": "18",
          "img":"https://res.cloudinary.com/norgesgruppen/images/c_scale,dpr_auto,f_auto,q_auto:eco,w_1600/axcdfcfmyahxjmmj99pe/pizza-diavola",
-         "categorie": [1,2]
+         "categorie": [1,2],
+         "reference":"ref02"
       },
       {
          "id": 11,
@@ -86,7 +96,8 @@
          "info": "viande 300g, fromage, bacon, tomate",
          "price": "15",
          "img":"https://images.unsplash.com/photo-1601894087104-0c18bc34dbd6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
-         "categorie": [2]
+         "categorie": [2],
+         "reference":"ref02"
       },
       {
          "id": 12,
@@ -94,7 +105,8 @@
          "info": "jambon beurre",
          "price": "9.5",
          "img":"https://assets.afcdn.com/recipe/20210603/120613_w1024h768c1cx1061cy706.webp",
-         "categorie": [2]
+         "categorie": [2],
+         "reference":"ref02"
       },
       {
          "id": 13,
@@ -102,7 +114,8 @@
          "info": "jambon, fromage",
          "price": "6",
          "img":"https://www.lesepicesrient.fr/wp-content/uploads/2020/02/croque-monsieur-campagnard.jpg",
-         "categorie": [1,2]
+         "categorie": [1,2],
+         "reference":"ref02"
       },
       {
          "id": 14,
@@ -110,7 +123,8 @@
          "info": "chocolat",
          "price": "5",
          "img":"https://images.unsplash.com/photo-1620884463224-55e55b0ae83f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1587&q=80",
-         "categorie": [3]
+         "categorie": [3],
+         "reference":"ref02"
       },
       {
          "id": 15,
@@ -118,7 +132,8 @@
          "info": "mille feuilles",
          "price": "9.5",
          "img":"https://images.unsplash.com/photo-1593424731252-a846f98af7e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-         "categorie": [3]
+         "categorie": [3],
+         "reference":"ref02"
       },
       {
          "id": 16,
@@ -126,7 +141,8 @@
          "info": "biscuits",
          "price": "6",
          "img":"https://img.cuisineaz.com/660x660/2018/03/19/i136897-biscuits-sables-au-beurre.jpeg",
-         "categorie": [3]
+         "categorie": [3],
+         "reference":"ref02"
       }
    ],
    "categories": [
