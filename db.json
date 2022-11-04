@@ -11,7 +11,7 @@
       },
       {
          "id": 2,
-         "name": "linguini all'amatriciana",
+         "name": "Rigatoni all'amatriciana",
          "info": "pates à l'amatriciana, peccorino romano, guanciale, sauce tomate",
          "price": "12",
          "img":"https://www.abeautifulplate.com/wp-content/uploads/2022/03/pasta-amatriciana-1-500x500.jpg",
@@ -20,7 +20,7 @@
       },
       {
          "id": 3,
-         "name": "penna all' arrabiata",
+         "name": "penne all' arrabiata",
          "info": "penne à l'arrabiata, parmesan, sauce tomate, piment",
          "price": "12",
          "img":"https://www.regal.fr/sites/art-de-vivre/files/Import/R84-penne-all-arrabbiata_ss.jpg",
@@ -60,7 +60,7 @@
          "info": "vodka, martini, glace pilée, aagitée, non secoué",
          "price": "13",
          "img":"https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/elle-a-table/recettes-de-cuisine/cocktail-vodka-martini-2806640/50536866-1-fre-FR/Cocktail-vodka-Martini.jpg",
-         "categorie": [2],
+         "categorie": [4],
          "reference":"ref02"
       },
       {
@@ -69,7 +69,7 @@
          "info": "bourbon, sucre, menthe, glace",
          "price": "15",
          "img":"https://honestlyyum.com/wp-content/uploads/2015/04/mint.julep_.recipe.1.1.jpg",
-         "categorie": [2],
+         "categorie": [4],
          "reference":"ref02"
       },
       {
@@ -78,7 +78,7 @@
          "info": "jus d'orange",
          "price": "6",
          "img":"https://i.notretemps.com/1800x0/smart/2020/09/29/banc-test-les-jus-dorange-bio.jpeg",
-         "categorie": [2],
+         "categorie": [4],
          "reference":"ref02"
       },
       {
