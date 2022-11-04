@@ -4,7 +4,7 @@
          "id": 1,
          "name": "linguini alla carbonara",
          "info": "pates à la carbonara, parmesan, peccorino romano, guanciale",
-         "price": "12",
+         "price": "16",
          "img":"https://images.unsplash.com/photo-1588013273468-315fd88ea34c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
          "categorie": [1],
          "reference":"ref02"
@@ -13,7 +13,7 @@
          "id": 2,
          "name": "Rigatoni all'amatriciana",
          "info": "pates à l'amatriciana, peccorino romano, guanciale, sauce tomate",
-         "price": "12",
+         "price": "19",
          "img":"https://www.abeautifulplate.com/wp-content/uploads/2022/03/pasta-amatriciana-1-500x500.jpg",
          "categorie": [1],
          "reference":"ref02"
@@ -22,7 +22,7 @@
          "id": 3,
          "name": "penne all' arrabiata",
          "info": "penne à l'arrabiata, parmesan, sauce tomate, piment",
-         "price": "12",
+         "price": "14",
          "img":"https://www.regal.fr/sites/art-de-vivre/files/Import/R84-penne-all-arrabbiata_ss.jpg",
          "categorie": [1],
          "reference":"ref02"
@@ -31,7 +31,7 @@
          "id": 4,
          "name": "Cassoulet castelnaudary",
          "info": "haricots blanc, saucisses, canard",
-         "price": "13",
+         "price": "21",
          "img":"https://www.papillesetpupilles.fr/wp-content/uploads/2013/11/Cassoulet-de-PIerre-Perret.jpg",
          "categorie": [1],
          "reference":"ref02"
@@ -40,7 +40,7 @@
          "id": 5,
          "name": "poulet basquaise",
          "info": "poulet, poivrons, piment doux, riz",
-         "price": "15",
+         "price": "18",
          "img":"https://assets.afcdn.com/recipe/20161116/7224_w1000h1500c1cx1972cy3850cxb3840cyb5760.webp",
          "categorie": [1],
          "reference":"ref02"
